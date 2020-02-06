@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Guía 3</title>
+    <!-- Opción 1 -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.js" type="text/javascript"></script> -->
+    <!-- Opción 2 -->
+    <script src="js/mqttws31.js"></script>
+    <link rel="stylesheet" href="css/estilos.css">
+    <!-- Resources -->
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+</head>
+<body>
+<div>
+    <h2>Potenciómetro 1</h2>
+</div>
+<!-- <div>
+    <a>Valor a:</a>
+    <a id = "ValorA"></a>
+</div> -->
+
+<div id="chartdiv"></div>
+
+<div>
+        <h2>Potenciómetro 2</h2>
+    </div>
+    <!-- <div>
+        <a>Valor b:</a>
+        <a id = "ValorB"></a>
+    </div> -->
+
+    <div id="chartdiv2"></div>
+
+<script src="js/iot-mqtt.js"></script>
+<script src="js/graficas.js"></script>    
+</body>
+</html>
