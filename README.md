@@ -8,6 +8,10 @@ En esta tercera etapa está divida en tres partes:
 
 3- Aquí estará todo el código del diseño de la página web.
 
+# A continuación video paso a paso de instalación y creación de un servidor de forma local IoT:
+[![](http://img.youtube.com/vi/gfNtkqlhhZk/0.jpg)](https://www.youtube.com/watch?v=gfNtkqlhhZk "Frontend IoT MQTT-WebSocket")
+
+
 ## Construido con 🛠️
 * [VsCode](https://code.visualstudio.com/) - Editor de texto Visual Studio Code
 * [PlatformIO](https://platformio.org/) - PlatformIO IDE
