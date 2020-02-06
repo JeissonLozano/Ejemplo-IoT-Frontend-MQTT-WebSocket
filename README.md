@@ -8,7 +8,7 @@ En esta tercera etapa está divida en tres partes:
 
 3- Aquí estará todo el código del diseño de la página web.
 
-# A continuación video paso a paso de instalación y creación de un servidor de forma local IoT:
+# A continuación video paso a paso de la creación de una página web con MQTT y WebSocket
 [![](http://img.youtube.com/vi/gfNtkqlhhZk/0.jpg)](https://www.youtube.com/watch?v=gfNtkqlhhZk "Frontend IoT MQTT-WebSocket")
 
 
